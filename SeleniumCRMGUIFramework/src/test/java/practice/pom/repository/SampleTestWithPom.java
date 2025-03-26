@@ -15,6 +15,9 @@ public class SampleTestWithPom {
 	WebElement ele1;
 	@FindBy(name="user_password")
 	WebElement ele2;
+	
+	@FindBy(name="lakshmanan")
+	WebElement lakgit;
 	//@FindBy(id="submitButton") 
 	//WebElement ele3;
 	//Auto-Healing
