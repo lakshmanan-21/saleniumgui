@@ -19,6 +19,7 @@ public class SampleTestWithoutPom {
 		driver.navigate().refresh();
 		ele1.sendKeys("admin");
 		ele2.sendKeys("admin");
+		System.out.println("different class");
 
 	}
 
