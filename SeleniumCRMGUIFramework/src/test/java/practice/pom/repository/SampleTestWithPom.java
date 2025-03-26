@@ -41,7 +41,7 @@ public class SampleTestWithPom {
 		s.ele1.sendKeys("admin");
 		s.ele2.sendKeys("admin");*/
 		s.ele3.click();
-
+		System.out.println("mmmmmm");
 
 	}
 
