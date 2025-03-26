@@ -20,6 +20,7 @@ public class SampleTestWithoutPom {
 		ele1.sendKeys("admin");
 		ele2.sendKeys("admin");
 		System.out.println("different class");
+		System.out.println("in class");
 
 	}
 
